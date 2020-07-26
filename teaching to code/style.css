@@ -1,0 +1,191 @@
+a.h1:hover{
+color: darkslategrey;
+font-size: 80px;
+text-decoration: none;
+}
+
+    a.h1:link{
+        color: orangered;
+         }
+    a.h1:visited{
+   color: orangered;
+    }
+    a.h1:active{
+        color: rgb(5, 78, 23);
+        font-size: 80px;
+        text-decoration: underline;
+        background-color: rgb(97, 253, 25);
+        }
+    
+         
+   
+       
+           
+               
+                    
+                       
+a.h2:hover{
+    color: darkslategrey;
+    font-size: 80px;
+    text-decoration: none;
+    }
+    
+               a.h2:link{
+                color: orangered;
+                 }
+                 a.h2:visited{
+                    color: orangered;
+                     }
+                     a.h2:active{
+                        color: rgb(5, 78, 23);
+                               font-size:80px;
+                               text-decoration: underline;
+                               background-color: rgb(97, 253, 25);
+                               }
+                     
+ a.h3:hover{
+    color: darkslategrey;
+    font-size: 80px; 
+    text-decoration: none;
+ }  
+ 
+    a.h3:link{
+        color: orangered;
+         }
+         a.h3:visited{
+            color: orangered;
+             }
+             a.h3:active{
+                color: rgb(5, 78, 23);
+                font-size: 80px;
+                text-decoration: underline;
+                background-color: rgb(97, 253, 25);
+                } 
+ 
+ a.h4:hover{
+    color: darkslategrey;
+    font-size: 80px;
+    text-decoration: none;
+    }
+    
+
+        a.h4:link{
+            color: orangered;
+             }
+             a.h4:visited{
+                color: orangered;
+                 }
+                 a.h4:active{
+                    color: rgb(5, 78, 23);
+                    font-size: 80px;
+                    text-decoration: underline;
+                    background-color: rgb(97, 253, 25);
+                    }
+    a.h5:hover{
+        color: darkslategrey;
+        font-size: 80px;
+        text-decoration: none;
+        }
+        a.h5:link{
+            color: orangered;
+             }
+             a.h5:visited{
+                color: orangered;
+                 }
+        a.h5:active{
+            color: rgb(5, 78, 23);
+            font-size: 80px;
+            text-decoration: underline;
+            background-color: rgb(97, 253, 25);
+            }
+        a.h6:hover{
+            color: darkslategrey;
+            font-size: 80px;
+            text-decoration: none;
+            }
+            
+                 
+                a.h6:link{
+                    color: orangered;
+                     }
+                     a.h6:visited{
+                        color: orangered;
+                         }
+                         a.h6:active{
+                            color: rgb(5, 78, 23);
+                            font-size: 80px;
+                            text-decoration: underline;
+                            background-color: rgb(97, 253, 25);
+                            }
+            a.h7:hover{
+                color: darkslategrey;
+                font-size: 80px;
+                text-decoration: none;
+                }
+               
+                    a.h7:link{
+                        color: orangered;
+                         }
+                         a.h7:visited{
+                            color: orangered;
+                             }
+                             a.h7:active{
+                                color: rgb(5, 78, 23);
+                                font-size: 80px;
+                                text-decoration: underline;
+                                background-color: rgb(97, 253, 25);
+                                }            
+a.h8:hover{
+ color: darkslategrey;
+font-size: 80px;
+text-decoration: none;
+} 
+
+
+    a.h8:link{
+        color: orangered;
+         }
+         a.h8:visited{
+            color: orangered;
+             }
+             a.h8:active{
+                color: rgb(5, 78, 23);
+                font-size: 80px;
+                text-decoration: underline;
+                background-color: rgb(97, 253, 25);
+                }
+
+
+h1 {
+    text-decoration: underline;
+    -webkit-text-decoration-color: red; 
+    text-decoration-color: red;
+  }
+ .heading{
+    text-decoration: underline;
+    text-decoration-color: yellow;    
+ }     
+
+ p{
+     font-size: 20px;
+    }
+a.h10:hover{
+font-size: 30px;
+}
+body{
+    background-color: lightyellow
+}
+.h11{
+   text-align: center;
+}
+a.h12{
+    font-size: 30px;
+}
+a.h12:visited{
+    color: mediumblue;
+}
+a.h12:hover{
+    color: rgba(5, 48, 26, 0.87);
+    background-color: rgb(196, 236, 236);
+   
+}
